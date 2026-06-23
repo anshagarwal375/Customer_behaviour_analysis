@@ -1,2 +1,0 @@
-# Customer_behaviour_analysis
-Data_analyst_project
